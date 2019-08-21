@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: delaneyphotography.co.uk
+Token: 077e0f97773961295e62c5f472c77e312891261afb219d37183eefa18cf19a6c
